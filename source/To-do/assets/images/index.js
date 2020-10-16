@@ -1,0 +1,5 @@
+export const deleteBtn = require('./delete.png')
+export const plus = require('./plus.png')
+export const send = require('./send.png')
+export const Rectangle7 = require('./Rectangle7.png')
+export const Rectangle6 = require('./Rectangle6.png')
